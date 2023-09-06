@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 Addedsome text, rebase example
+more text
+
 ## Introduction
 
 This is example to show different parts og Git repoository and various command using a web project.
