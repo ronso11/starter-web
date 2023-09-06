@@ -13,7 +13,10 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This is  a sipmle web project
+
 ## How To Contribute
+
+Please fork this repo
 
 ### Copyright
 
