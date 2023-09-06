@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 This is  a sipmle web project
 ## How To Contribute
+
+### Copyright
+
+Git.Training.
